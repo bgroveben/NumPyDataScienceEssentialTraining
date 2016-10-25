@@ -4,4 +4,4 @@ I found this course on LinkedIn during their free week of learning.
 
 Thanks LinkedIn!  
 
-I am [here] (https://www.linkedin.com/learning/numpy-data-science-essential-training/linspace-zeros-ones-data-types)
+I am [here] (https://www.linkedin.com/learning/numpy-data-science-essential-training/slice-arrays)
